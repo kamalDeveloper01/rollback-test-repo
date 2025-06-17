@@ -9,3 +9,6 @@ is removed commit or not?
 
 
 Final Commit
+
+
+New final commit
